@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/helloworld.dir/main.c.o -o helloworld  -Wl,-rpath,/home/lin/lumen/cmake/build/src/hello: hello/libhello.so world/libworld.a 
