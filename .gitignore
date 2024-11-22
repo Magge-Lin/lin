@@ -1,1 +1,9 @@
-*/build/
+build/
+cmake - build - *
+*.o
+*.out
+*~
+.vscode/
+.gdbinit
+.gdbtmp
+*.symbols
